@@ -1,5 +1,5 @@
 var rs = require("readline-sync");
-const chalk = require("chalk");
+const chalk = require("chalk")
 
 // var score = 0;
 // var highscore = 30;
