@@ -1,10 +1,11 @@
 var rs = require("readline-sync");
+const chalk = require("chalk");
+
 // var score = 0;
 // var highscore = 30;
 
 // const questions = require("./data");
 
-// const chalk = require("chalk");
 
 // let green = chalk.bold.green;
 // let gray = chalk.bold.gray;
